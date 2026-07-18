@@ -163,16 +163,11 @@ body {
     color: var(--text-color);
 }
 
-.logo-dot {
-    width: 14px;
-    height: 14px;
-    background-color: var(--text-color);
-    border-radius: 50%;
-}
-
-.logo-dot.small {
-    width: 8px;
-    height: 8px;
+.logo-icon {
+    width: 32px;
+    height: 32px;
+    border-radius: 6px;
+    border: 2px solid var(--border-color);
 }
 
 .logo-text {
